@@ -1,0 +1,123 @@
+/* ===== Players Page Container ===== */
+
+.players-container{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+gap:30px;
+width:100%;
+padding:30px;
+max-width:1400px;
+margin:auto;
+box-sizing:border-box;
+}
+
+
+/* ===== TEAM CARD (DEFAULT DARK THEME) ===== */
+
+.players-container .team-card{
+background:#0f1c34;
+border-radius:12px;
+padding:20px;
+color:white;
+box-shadow:0 6px 15px rgba(0,0,0,0.3);
+transition:all .3s ease;
+border:1px solid rgba(255,255,255,0.08);
+width:100%;
+display:flex;
+flex-direction:column;
+}
+
+
+/* Hover */
+
+.players-container .team-card:hover{
+transform:translateY(-5px);
+box-shadow:0 12px 25px rgba(0,0,0,0.6);
+}
+
+
+/* ===== Header ===== */
+
+.players-container .team-header{
+display:flex;
+align-items:center;
+gap:12px;
+margin-bottom:15px;
+border-bottom:1px solid rgba(255,255,255,0.15);
+padding-bottom:10px;
+}
+
+
+/* Logo */
+
+.players-container .team-logo{
+width:45px;
+height:45px;
+object-fit:contain;
+}
+
+
+/* Team Name */
+
+.players-container .team-card h2{
+font-size:20px;
+color:#00c3ff;
+margin:0;
+}
+
+
+/* ===== Player List ===== */
+
+.players-container ul{
+list-style:none;
+padding:0;
+margin:0;
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:6px 15px;
+}
+
+
+/* Player Name */
+
+.players-container li{
+padding:6px 0;
+font-size:14px;
+color:#d9e6ff;
+border-bottom:1px solid rgba(255,255,255,0.08);
+}
+
+
+/* Last Border Remove */
+
+.players-container li:last-child{
+border-bottom:none;
+}
+
+
+/* ===== LIGHT THEME (MATCH DASHBOARD CARDS) ===== */
+/* ===== LIGHT THEME SUPPORT ===== */
+
+.light .team-card{
+background:#f5f6f8;
+color:#1a1a1a;
+border:1px solid #e2e6ea;
+box-shadow:0 4px 10px rgba(0,0,0,0.08);
+}
+
+.light .team-header{
+border-bottom:1px solid #e2e6ea;
+}
+
+.light .team-card h2{
+color:#3aa7db;
+}
+
+.light .team-card li{
+color:#444;
+border-bottom:1px solid #e6e6e6;
+}
+
+.light .team-card:hover{
+box-shadow:0 8px 18px rgba(0,0,0,0.12);
+}

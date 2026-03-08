@@ -1,0 +1,135 @@
+{
+  "season": 2025,
+  "overview": {
+    "tournament": "Indian Premier League",
+    "season": "IPL 2025",
+    "dates": "22 March 2025 – 3 June 2025",
+    "teams": 10,
+    "totalMatches": 74,
+    "champion": "Royal Challengers Bengaluru",
+    "runnerUp": "Punjab Kings",
+    "finalVenue": "Narendra Modi Stadium, Ahmedabad"
+  },
+
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians",
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad",
+    "Gujarat Titans",
+    "Lucknow Super Giants"
+  ],
+
+  "players": {
+    "topBatters": [
+      {
+        "name": "Sai Sudharsan",
+        "team": "Gujarat Titans",
+        "runs": 759
+      },
+      {
+        "name": "Virat Kohli",
+        "team": "Royal Challengers Bengaluru",
+        "runs": 708
+      },
+      {
+        "name": "Jos Buttler",
+        "team": "Rajasthan Royals",
+        "runs": 645
+      },
+      {
+        "name": "Suryakumar Yadav",
+        "team": "Mumbai Indians",
+        "runs": 620
+      }
+    ],
+
+    "topBowlers": [
+      {
+        "name": "Prasidh Krishna",
+        "team": "Gujarat Titans",
+        "wickets": 25
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "team": "Mumbai Indians",
+        "wickets": 22
+      },
+      {
+        "name": "Mohammed Siraj",
+        "team": "Royal Challengers Bengaluru",
+        "wickets": 21
+      }
+    ]
+  },
+
+  "venues": [
+    "Narendra Modi Stadium, Ahmedabad",
+    "Wankhede Stadium, Mumbai",
+    "M Chinnaswamy Stadium, Bengaluru",
+    "MA Chidambaram Stadium, Chennai",
+    "Arun Jaitley Stadium, Delhi",
+    "Eden Gardens, Kolkata",
+    "Rajiv Gandhi International Stadium, Hyderabad",
+    "Ekana Cricket Stadium, Lucknow",
+    "Sawai Mansingh Stadium, Jaipur",
+    "HPCA Stadium, Dharamshala"
+  ],
+
+  "standings": [
+    {
+      "position": 1,
+      "team": "Royal Challengers Bengaluru",
+      "matches": 14,
+      "wins": 9,
+      "losses": 5,
+      "points": 18
+    },
+    {
+      "position": 2,
+      "team": "Punjab Kings",
+      "matches": 14,
+      "wins": 8,
+      "losses": 6,
+      "points": 16
+    },
+    {
+      "position": 3,
+      "team": "Mumbai Indians",
+      "matches": 14,
+      "wins": 8,
+      "losses": 6,
+      "points": 16
+    },
+    {
+      "position": 4,
+      "team": "Gujarat Titans",
+      "matches": 14,
+      "wins": 7,
+      "losses": 7,
+      "points": 14
+    }
+  ],
+
+  "statistics": {
+    "totalMatches": 74,
+    "totalRuns": 23500,
+    "totalWickets": 930,
+    "orangeCap": {
+      "player": "Sai Sudharsan",
+      "team": "Gujarat Titans",
+      "runs": 759
+    }
+  },
+
+  "insights": [
+    "Royal Challengers Bengaluru won their first IPL title in 2025 after many unsuccessful seasons.",
+    "Sai Sudharsan won the Orange Cap with 759 runs.",
+    "Prasidh Krishna finished as the leading wicket-taker with 25 wickets.",
+    "The season saw an increase in aggressive batting with many 200+ totals."
+  ]
+}

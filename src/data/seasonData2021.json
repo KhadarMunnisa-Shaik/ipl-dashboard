@@ -1,0 +1,75 @@
+{
+  "season": 2021,
+  "overview": {
+    "season_name": "Indian Premier League 2021",
+    "duration": "9 April 2021 – 15 October 2021",
+    "teams": 8,
+    "total_matches": 60,
+    "champion": "Chennai Super Kings",
+    "runner_up": "Kolkata Knight Riders",
+    "final_result": "CSK defeated KKR by 27 runs"
+  },
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians",
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad"
+  ],
+  "players": {
+    "key_players": [
+      "Ruturaj Gaikwad",
+      "Faf du Plessis",
+      "KL Rahul",
+      "Shikhar Dhawan",
+      "Glenn Maxwell",
+      "Harshal Patel"
+    ],
+    "topBatters": [
+    { "name": "Ruturaj Gaikwad", "runs": 635 },
+    { "name": "Faf du Plessis", "runs": 633 },
+    { "name": "KL Rahul", "runs": 626 }
+  ],
+
+  "topBowlers": [
+    { "name": "Harshal Patel", "wickets": 32 },
+    { "name": "Avesh Khan", "wickets": 24 },
+    { "name": "Jasprit Bumrah", "wickets": 21 }
+  ],
+    "orange_cap": {
+      "player": "Ruturaj Gaikwad",
+      "team": "Chennai Super Kings",
+      "runs": 635
+    }
+  },
+  "venues": [
+    "Chennai",
+    "Mumbai",
+    "Ahmedabad",
+    "Delhi",
+    "Dubai",
+    "Abu Dhabi",
+    "Sharjah"
+  ],
+
+  "statistics": {
+    "total_matches": 60,
+    "total_runs": 17000,
+    "total_wickets": 720
+  },
+  "insights": [
+    "Chennai Super Kings made a strong comeback after finishing 7th in the 2020 season.",
+    "Harshal Patel equaled the IPL record for most wickets in a single season with 32.",
+    "The tournament was partially moved from India to the UAE due to the COVID-19 pandemic.",
+    "Young opener Ruturaj Gaikwad won the Orange Cap with 635 runs."
+  ],
+   "standings": [
+ { "position": 1, "team": "Delhi Capitals", "points": 20 },
+ { "position": 2, "team": "Chennai Super Kings", "points": 18 },
+ { "position": 3, "team": "Royal Challengers Bangalore", "points": 18 },
+ { "position": 4, "team": "Kolkata Knight Riders", "points": 14 }
+]
+}

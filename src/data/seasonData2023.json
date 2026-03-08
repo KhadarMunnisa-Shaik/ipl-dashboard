@@ -1,0 +1,135 @@
+{
+  "season": 2023,
+  "overview": {
+    "tournament": "Indian Premier League",
+    "season": "IPL 2023",
+    "dates": "31 March 2023 – 29 May 2023",
+    "teams": 10,
+    "totalMatches": 74,
+    "champion": "Chennai Super Kings",
+    "runnerUp": "Gujarat Titans",
+    "finalVenue": "Narendra Modi Stadium, Ahmedabad"
+  },
+
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians",
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad",
+    "Gujarat Titans",
+    "Lucknow Super Giants"
+  ],
+
+  "players": {
+    "topBatters": [
+      {
+        "name": "Shubman Gill",
+        "team": "Gujarat Titans",
+        "runs": 890
+      },
+      {
+        "name": "Faf du Plessis",
+        "team": "Royal Challengers Bangalore",
+        "runs": 730
+      },
+      {
+        "name": "Devon Conway",
+        "team": "Chennai Super Kings",
+        "runs": 672
+      },
+      {
+        "name": "Virat Kohli",
+        "team": "Royal Challengers Bangalore",
+        "runs": 639
+      }
+    ],
+
+    "topBowlers": [
+      {
+        "name": "Mohammed Shami",
+        "team": "Gujarat Titans",
+        "wickets": 28
+      },
+      {
+        "name": "Rashid Khan",
+        "team": "Gujarat Titans",
+        "wickets": 27
+      },
+      {
+        "name": "Yuzvendra Chahal",
+        "team": "Rajasthan Royals",
+        "wickets": 21
+      }
+    ]
+  },
+
+  "venues": [
+    "Narendra Modi Stadium, Ahmedabad",
+    "MA Chidambaram Stadium, Chennai",
+    "Wankhede Stadium, Mumbai",
+    "Arun Jaitley Stadium, Delhi",
+    "Eden Gardens, Kolkata",
+    "Rajiv Gandhi International Stadium, Hyderabad",
+    "M Chinnaswamy Stadium, Bengaluru",
+    "BRSABV Ekana Stadium, Lucknow",
+    "Sawai Mansingh Stadium, Jaipur",
+    "HPCA Stadium, Dharamshala"
+  ],
+
+  "standings": [
+    {
+      "position": 1,
+      "team": "Gujarat Titans",
+      "matches": 14,
+      "wins": 10,
+      "losses": 4,
+      "points": 20
+    },
+    {
+      "position": 2,
+      "team": "Chennai Super Kings",
+      "matches": 14,
+      "wins": 8,
+      "losses": 5,
+      "points": 17
+    },
+    {
+      "position": 3,
+      "team": "Lucknow Super Giants",
+      "matches": 14,
+      "wins": 8,
+      "losses": 5,
+      "points": 17
+    },
+    {
+      "position": 4,
+      "team": "Mumbai Indians",
+      "matches": 14,
+      "wins": 8,
+      "losses": 6,
+      "points": 16
+    }
+  ],
+
+  "statistics": {
+    "totalMatches": 74,
+    "totalRuns": 22000,
+    "totalWickets": 900,
+    "orangeCap": {
+      "player": "Shubman Gill",
+      "team": "Gujarat Titans",
+      "runs": 890
+    }
+  },
+
+  "insights": [
+    "Chennai Super Kings won their 5th IPL title under MS Dhoni.",
+    "Shubman Gill scored 890 runs including 3 centuries, one of the best IPL seasons by a batter.",
+    "The Impact Player rule was introduced in IPL 2023.",
+    "The final between CSK and GT was decided by DLS due to rain."
+  ]
+}

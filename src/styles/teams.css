@@ -1,0 +1,104 @@
+/* ===== Teams Page ===== */
+
+.teams-container{
+padding:2rem;
+font-family:Arial, sans-serif;
+min-height:100vh;
+}
+
+/* ===== PAGE TITLE ===== */
+
+.teams-container h1{
+text-align:center;
+margin-bottom:2rem;
+font-size:2rem;
+}
+
+
+/* ===== LIGHT THEME ===== */
+
+.light .teams-container{
+background:#f7f7f7;
+}
+
+.light .teams-container h1{
+color:#1a1a1a;
+}
+
+
+/* ===== DARK THEME ===== */
+
+.dark .teams-container{
+background:#0f1c34;
+}
+
+.dark .teams-container h1{
+color:#ffffff;
+}
+
+
+/* ===== GRID LAYOUT ===== */
+
+.teams-container .teams-grid{
+display:grid !important;
+grid-template-columns:repeat(4,180px) !important;
+gap:4.5rem;
+justify-content:center;
+margin-top:2rem;
+}
+
+
+/* ===== TEAM CARD ===== */
+
+.teams-container .team-card{
+background:#ffffff;
+border-radius:14px;
+padding:1.3rem;
+text-align:center;
+width:180px;
+box-shadow:0 6px 12px rgba(0,0,0,0.15);
+transition:all .3s ease;
+cursor:pointer;
+}
+
+
+/* ===== DARK MODE CARD ===== */
+
+.dark .teams-container .team-card{
+background:#142544;
+box-shadow:0 8px 20px rgba(0,0,0,0.6);
+}
+
+
+/* ===== HOVER EFFECT ===== */
+
+.team-card:hover{
+transform:translateY(-8px) scale(1.05);
+box-shadow:0 14px 28px rgba(0,0,0,0.25);
+}
+
+
+/* ===== LOGO ===== */
+
+.team-logo{
+width:90px;
+height:90px;
+object-fit:contain;
+margin-bottom:.8rem;
+}
+
+
+/* ===== TEAM NAME ===== */
+
+.team-card h2{
+font-size:.95rem;
+color:#2f8fd8;
+line-height:1.3;
+}
+
+
+/* ===== DARK MODE TEXT ===== */
+
+.dark .team-card h2{
+color:#4db8ff;
+}

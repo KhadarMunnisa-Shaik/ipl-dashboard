@@ -1,0 +1,78 @@
+.standings-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+  background-color: #f4f4f4;
+}
+
+/* Dark theme */
+.dark .standings-container {
+  background-color: #0f1c34;
+  color: #e0ecff;
+}
+
+/* Season block */
+.season-block {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 2rem;
+}
+
+.dark .season-block {
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+/* Season title */
+.season-block h2 {
+  color: #4db8ff;
+  margin-bottom: 1rem;
+}
+
+.dark .season-block h2 {
+  color: #4db8ff;
+}
+
+/* Table */
+.standings-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.standings-table th,
+.standings-table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem 1rem;
+  text-align: center;
+}
+
+.dark .standings-table th,
+.dark .standings-table td {
+  border-color: rgba(255,255,255,0.15);
+}
+
+.standings-table th {
+  background-color: #4db8ff;
+  color: #fff;
+}
+
+.dark .standings-table th {
+  background-color: #4db8ff;
+  color: #0f1c34;
+}
+
+.standings-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.dark .standings-table tr:nth-child(even) {
+  background-color: rgba(255,255,255,0.05);
+}
+
+.standings-table tr:hover {
+  background-color: #ffe0cc;
+}
+
+.dark .standings-table tr:hover {
+  background-color: rgba(77,184,255,0.2);
+}

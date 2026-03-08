@@ -1,0 +1,131 @@
+{
+  "season": 2022,
+  "overview": {
+    "tournament": "Indian Premier League",
+    "season": "IPL 2022",
+    "dates": "26 March 2022 – 29 May 2022",
+    "teams": 10,
+    "totalMatches": 74,
+    "champion": "Gujarat Titans",
+    "runnerUp": "Rajasthan Royals",
+    "finalVenue": "Narendra Modi Stadium, Ahmedabad"
+  },
+
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians",
+    "Royal Challengers Bangalore",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad",
+    "Gujarat Titans",
+    "Lucknow Super Giants"
+  ],
+
+  "players": {
+    "topBatters": [
+      {
+        "name": "Jos Buttler",
+        "team": "Rajasthan Royals",
+        "runs": 863
+      },
+      {
+        "name": "KL Rahul",
+        "team": "Lucknow Super Giants",
+        "runs": 616
+      },
+      {
+        "name": "Quinton de Kock",
+        "team": "Lucknow Super Giants",
+        "runs": 508
+      },
+      {
+        "name": "Shikhar Dhawan",
+        "team": "Punjab Kings",
+        "runs": 460
+      }
+    ],
+
+    "topBowlers": [
+      {
+        "name": "Yuzvendra Chahal",
+        "team": "Rajasthan Royals",
+        "wickets": 27
+      },
+      {
+        "name": "Wanindu Hasaranga",
+        "team": "Royal Challengers Bangalore",
+        "wickets": 26
+      },
+      {
+        "name": "Kagiso Rabada",
+        "team": "Punjab Kings",
+        "wickets": 23
+      }
+    ]
+  },
+
+  "venues": [
+    "Wankhede Stadium, Mumbai",
+    "Brabourne Stadium, Mumbai",
+    "DY Patil Stadium, Navi Mumbai",
+    "MCA Stadium, Pune",
+    "Eden Gardens, Kolkata",
+    "Narendra Modi Stadium, Ahmedabad"
+  ],
+
+  "standings": [
+    {
+      "position": 1,
+      "team": "Gujarat Titans",
+      "matches": 14,
+      "wins": 10,
+      "losses": 4,
+      "points": 20
+    },
+    {
+      "position": 2,
+      "team": "Rajasthan Royals",
+      "matches": 14,
+      "wins": 9,
+      "losses": 5,
+      "points": 18
+    },
+    {
+      "position": 3,
+      "team": "Lucknow Super Giants",
+      "matches": 14,
+      "wins": 9,
+      "losses": 5,
+      "points": 18
+    },
+    {
+      "position": 4,
+      "team": "Royal Challengers Bangalore",
+      "matches": 14,
+      "wins": 8,
+      "losses": 6,
+      "points": 16
+    }
+  ],
+
+  "statistics": {
+    "totalMatches": 74,
+    "totalRuns": 21000,
+    "totalWickets": 890,
+    "orangeCap": {
+      "player": "Jos Buttler",
+      "team": "Rajasthan Royals",
+      "runs": 863
+    }
+  },
+
+  "insights": [
+    "IPL 2022 introduced two new teams: Gujarat Titans and Lucknow Super Giants.",
+    "Gujarat Titans won the title in their debut season under captain Hardik Pandya.",
+    "Jos Buttler scored 4 centuries during the season and dominated the batting charts.",
+    "The tournament was mostly played in Maharashtra due to logistical planning."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "season": 2024,
+  "overview": {
+    "tournament": "Indian Premier League",
+    "season": "IPL 2024",
+    "dates": "22 March 2024 – 26 May 2024",
+    "teams": 10,
+    "totalMatches": 74,
+    "champion": "Kolkata Knight Riders",
+    "runnerUp": "Sunrisers Hyderabad",
+    "finalVenue": "MA Chidambaram Stadium, Chennai"
+  },
+
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians",
+    "Royal Challengers Bengaluru",
+    "Kolkata Knight Riders",
+    "Delhi Capitals",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad",
+    "Gujarat Titans",
+    "Lucknow Super Giants"
+  ],
+
+  "players": {
+    "topBatters": [
+      {
+        "name": "Virat Kohli",
+        "team": "Royal Challengers Bengaluru",
+        "runs": 741
+      },
+      {
+        "name": "Ruturaj Gaikwad",
+        "team": "Chennai Super Kings",
+        "runs": 583
+      },
+      {
+        "name": "Riyan Parag",
+        "team": "Rajasthan Royals",
+        "runs": 573
+      },
+      {
+        "name": "Travis Head",
+        "team": "Sunrisers Hyderabad",
+        "runs": 567
+      }
+    ],
+
+    "topBowlers": [
+      {
+        "name": "Harshal Patel",
+        "team": "Punjab Kings",
+        "wickets": 24
+      },
+      {
+        "name": "Varun Chakravarthy",
+        "team": "Kolkata Knight Riders",
+        "wickets": 21
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "team": "Mumbai Indians",
+        "wickets": 20
+      }
+    ]
+  },
+
+  "venues": [
+    "MA Chidambaram Stadium, Chennai",
+    "Narendra Modi Stadium, Ahmedabad",
+    "Eden Gardens, Kolkata",
+    "Rajiv Gandhi International Stadium, Hyderabad",
+    "M Chinnaswamy Stadium, Bengaluru",
+    "Wankhede Stadium, Mumbai",
+    "Arun Jaitley Stadium, Delhi",
+    "Ekana Cricket Stadium, Lucknow",
+    "Sawai Mansingh Stadium, Jaipur",
+    "HPCA Stadium, Dharamshala"
+  ],
+
+  "standings": [
+    {
+      "position": 1,
+      "team": "Kolkata Knight Riders",
+      "matches": 14,
+      "wins": 9,
+      "losses": 3,
+      "points": 20
+    },
+    {
+      "position": 2,
+      "team": "Sunrisers Hyderabad",
+      "matches": 14,
+      "wins": 8,
+      "losses": 5,
+      "points": 17
+    },
+    {
+      "position": 3,
+      "team": "Rajasthan Royals",
+      "matches": 14,
+      "wins": 8,
+      "losses": 5,
+      "points": 17
+    },
+    {
+      "position": 4,
+      "team": "Royal Challengers Bengaluru",
+      "matches": 14,
+      "wins": 7,
+      "losses": 7,
+      "points": 14
+    }
+  ],
+
+  "statistics": {
+    "totalMatches": 74,
+    "totalRuns": 23000,
+    "totalWickets": 920,
+    "orangeCap": {
+      "player": "Virat Kohli",
+      "team": "Royal Challengers Bengaluru",
+      "runs": 741
+    }
+  },
+
+  "insights": [
+    "Kolkata Knight Riders won their third IPL title in 2024.",
+    "Sunrisers Hyderabad played an aggressive batting style and recorded several 250+ totals.",
+    "Virat Kohli won the Orange Cap with 741 runs.",
+    "The season became one of the highest-scoring IPL tournaments in history."
+  ]
+}

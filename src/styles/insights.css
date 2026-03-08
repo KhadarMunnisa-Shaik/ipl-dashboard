@@ -1,0 +1,76 @@
+/* ===== INSIGHTS PAGE ===== */
+
+.insights-container{
+padding:2rem;
+font-family:Arial, sans-serif;
+min-height:100vh;
+}
+
+
+/* LIGHT THEME */
+
+.light .insights-container{
+background:#f0f0f0;
+}
+
+
+/* DARK THEME */
+
+.dark .insights-container{
+background:#0f1c34;
+}
+
+
+/* SEASON BLOCK */
+
+.insights-container .season-block{
+margin-bottom:3rem;
+border-bottom:1px solid #ccc;
+padding-bottom:2rem;
+}
+
+.dark .insights-container .season-block{
+border-bottom:1px solid rgba(255,255,255,0.15);
+}
+
+
+/* TITLE */
+
+.season-block h2{
+color:#4db8ff;
+margin-bottom:.5rem;
+}
+
+.dark .season-block h2{
+color:#4db8ff;
+}
+
+
+/* SUMMARY */
+
+.season-summary{
+margin-bottom:1rem;
+font-size:.95rem;
+color:#333;
+}
+
+.dark .season-summary{
+color:#d9e6ff;
+}
+
+
+/* INSIGHTS LIST */
+
+.insights-list{
+padding-left:1.2rem;
+}
+
+.insights-list li{
+margin-bottom:.6rem;
+line-height:1.4;
+color:#333;
+}
+
+.dark .insights-list li{
+color:#e0ecff;
+}
