@@ -63,10 +63,13 @@ function App() {
   return (
     <div className={`app ${theme}`}>
 
+      {/* Sidebar */}
       <Sidebar active={active} setActive={setActive} />
 
+      {/* Main Content */}
       <div className="main">
 
+        {/* Header */}
         <Header
           season={season}
           setSeason={setSeason}
