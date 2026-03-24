@@ -7,7 +7,8 @@ box-sizing:border-box;
 }
 
 .sidebar{
-width:270px;
+width:250px;
+max-width:250px;
 background:#1e293b;
 padding:20px;
 display:flex;
@@ -69,25 +70,32 @@ width:180px;
 }
 
 /* Mobile */
-
 @media (max-width:700px){
 
 .sidebar{
 position:relative;
 width:100%;
 height:auto;
+min-height:auto;   /* 🔥 important */
 flex-direction:row;
+align-items:center;
 overflow-x:auto;
 padding:10px;
 }
 
+.sidebar h2{
+display:none;
+}
+
 .sidebar ul{
 flex-direction:row;
-gap:15px;
+gap:10px;
 }
 
 .sidebar li{
 white-space:nowrap;
+padding:8px 12px;
+font-size:14px;
 }
 
 }

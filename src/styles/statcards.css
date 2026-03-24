@@ -6,6 +6,14 @@ margin-top:20px;
 margin-bottom:30px;
 }
 
+@media (max-width:600px){
+
+.cards{
+grid-template-columns:1fr;
+}
+
+}
+
 .card{
 background:#1e293b;
 padding:20px;
