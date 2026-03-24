@@ -31,7 +31,7 @@ padding:0;
 margin:0;
 }
 
-.sidebar li{
+.sidebar > ul > li{
 padding:12px 15px;
 border-radius:8px;
 cursor:pointer;
@@ -75,34 +75,24 @@ width:180px;
 .sidebar ul{
 display:flex;
 flex-direction:row;
-gap:12px;
-overflow-x:auto;       /* 🔥 allows horizontal scroll */
-scroll-behavior:smooth;
+gap:8px;
+overflow-x:auto;
 padding-bottom:5px;
 }
 
-.sidebar li{
-flex:0 0 auto;         /* 🔥 prevents shrinking */
+.sidebar > ul > li{
+flex:0 0 auto;
 white-space:nowrap;
-padding:8px 14px;
-font-size:14px;
-border-radius:20px;    /* 🔥 pill style */
+padding:6px 10px;   /* 🔥 smaller spacing */
+font-size:13px;
+border-radius:16px;
 }
 
-/* optional: hide scrollbar */
-
+/* hide scrollbar */
 .sidebar ul::-webkit-scrollbar{
 display:none;
 }
 
-}
-.sidebar{
-overflow-x:hidden;
-}
-.sidebar li.active{
-background:#38bdf8;
-color:black;
-font-weight:bold;
 }
 
 .sidebar-title{
