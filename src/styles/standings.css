@@ -76,3 +76,12 @@
 .dark .standings-table tr:hover {
   background-color: rgba(77,184,255,0.2);
 }
+
+@media (max-width:600px){
+
+th, td{
+font-size:12px;
+padding:6px 4px;
+}
+
+}

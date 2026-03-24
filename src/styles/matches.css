@@ -76,3 +76,12 @@ padding:16px;
 }
 
 }
+
+
+@media (max-width:600px){
+
+.match{
+width:100%;
+}
+
+}

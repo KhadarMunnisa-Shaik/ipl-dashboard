@@ -40,11 +40,10 @@ color:#ffffff;
 /* ===== GRID LAYOUT ===== */
 
 .teams-container .teams-grid{
-display:grid !important;
-grid-template-columns:repeat(4,180px) !important;
-gap:4.5rem;
+display:grid;
+grid-template-columns:repeat(auto-fit, minmax(140px, 1fr));
+gap:20px;
 justify-content:center;
-margin-top:2rem;
 }
 
 

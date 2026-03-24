@@ -186,3 +186,18 @@ grid-area:points;
 .chart-card{
 grid-area:chart;
 }
+
+@media (max-width:768px){
+
+.match-details{
+grid-template-columns:1fr;
+grid-template-areas:
+"bat"
+"bowl"
+"perf"
+"points"
+"chart";
+}
+
+}
+
